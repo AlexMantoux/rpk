@@ -13,4 +13,4 @@ Elle recherche le processus indiqué par son nom, le termine proprement, puis le
 ## Installation
 
 1. Clonez ce dépôt.
-2. Placez l’exécutable **rpk** dans un dossier inclus dans votre variable d’environnement PATH (.local/bin).
+2. Placez l’exécutable **rpk** dans un dossier inclus dans votre variable d’environnement PATH (.usr/bin).
